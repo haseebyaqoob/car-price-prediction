@@ -1,4 +1,4 @@
-```markdown
+
 # Car Price Prediction with Machine Learning
 
 This project demonstrates how to build a machine learning model to predict the selling price of a car based on various features such as its age, mileage, and fuel type. It uses Python and essential libraries for data analysis and machine learning.
